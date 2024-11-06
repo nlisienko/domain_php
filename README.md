@@ -15,9 +15,11 @@ Console tool for domain info fetching.
 - Linux
 
 ## Example
+```
 % domain neor.digital
-
-`domain:     neor.digital
+```
+```
+domain:     neor.digital
 ip:         5.45.114.184
 hostname:   s20.neor.ee
 hosting:    neor.ee
@@ -36,4 +38,5 @@ Headers:  [199]
   X-Mod-Pagespeed: 1.13.35.2-0
   Cache-Control: max-age=0, no-cache
   Connection: close
-  Content-Type: text/html; charset=UTF-8`
+  Content-Type: text/html; charset=UTF-8
+```
